@@ -13,7 +13,7 @@ let yoff4 = 0.0;
 let yoff5 = 0.0;
 
 function preload(){
-  song = loadSound("/assets/Persona 5  Life Will Change.mp3")
+  song = loadSound("assets/Persona 5  Life Will Change.mp3")
   img = loadImage("assets/bg.jpeg")
   play = loadImage("assets/play.png")
   mtP = loadImage("assets/play.png")
